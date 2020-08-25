@@ -15,7 +15,7 @@ import java.util.Scanner;
  */
 public class Ristoratori {
 
-    //fields
+    //fields 
     static boolean isLogged = false;
 
     public static void main(String args[]) {

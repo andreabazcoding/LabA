@@ -10,7 +10,7 @@ package ristoratori;
  * @author Andrea Basilico
  */
 public class Ristorante {
-    // attributes
+    // attributes 
     String nomeRistorante, indirizzo, urlWeb, tipologia, numTelefonico;
     
     //constructor
